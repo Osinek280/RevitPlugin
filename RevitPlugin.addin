@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application MyTest</Name>
+    <Assembly>
+      D:\myApp\RevitPlugin\bin\Debug\RevitPlugin.dll
+    </Assembly>
+    <FullClassName>RevitPlugin.Main</FullClassName>
+    <ClientId>D6BD208A-C251-42B8-967A-3C9453EFB3EE</ClientId>
+    <VendorId>Danny Bentley</VendorId>
+    <VendorDescription>danny.bentley@som.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
